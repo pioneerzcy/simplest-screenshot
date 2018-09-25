@@ -1,5 +1,6 @@
 # simplest-screenshot
-最简单的网页截图工具
+最简单的网页截图工具   
+`puppeteer`
 
 # 安装说明
 
@@ -10,7 +11,7 @@
 目前支持centos7以上   
 
 > 执行 npm install  
-> 由于服务器下载chrome极慢 这里手动上传chrome-linux至服务器解压  
+> 由于服务器下载chrome极慢 这里手动上传[chrome-linux](https://drive.google.com/open?id=1jfhnVCKvAXr7hoB7Cep-d0QL4BVa1nBb)至服务器解压  
 > (需在ScreentshotLinux.js文件中显示指定chrome位置 executablePath)
 
 另需安装chrome依赖和字体依赖
