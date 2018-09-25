@@ -1,0 +1,8 @@
+{
+  "name": "simplest-screenshot",
+  "version": "1.0.0",
+  "dependencies": {
+    "commander": "^2.12.2",
+    "puppeteer": "^0.13.0"
+  }
+}
